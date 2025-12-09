@@ -4,7 +4,8 @@
 import java.util.Scanner;
 
 
-//we got lost
+//we ran out of time
+//we didnt know how to continue after importing scanner
 
 
 public class Workaholic{
